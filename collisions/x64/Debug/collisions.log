@@ -1,0 +1,13 @@
+﻿  collisions.cpp
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,61): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,61): warning C4244:         with
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,61): warning C4244:         [
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,61): warning C4244:             T=float
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,61): warning C4244:         ]
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,46): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,46): warning C4244:         with
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,46): warning C4244:         [
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,46): warning C4244:             T=float
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(182,46): warning C4244:         ]
+C:\Users\abhiv\Documents\projects\collisions\collisions\collisions.cpp(218,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  collisions.vcxproj -> C:\Users\abhiv\Documents\projects\collisions\x64\Debug\collisions.exe
