@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "collisions", "collisions\collisions.vcxproj", "{E5EE7CA8-7C23-4747-A595-255DC545D98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Debug|x64.ActiveCfg = Debug|x64
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Debug|x64.Build.0 = Debug|x64
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Debug|x86.Build.0 = Debug|Win32
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Release|x64.ActiveCfg = Release|x64
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Release|x64.Build.0 = Release|x64
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Release|x86.ActiveCfg = Release|Win32
+		{E5EE7CA8-7C23-4747-A595-255DC545D98F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37C4177-65C2-4D02-8B91-6D47C99D3FF5}
+	EndGlobalSection
+EndGlobal

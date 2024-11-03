@@ -1,0 +1,14 @@
+﻿  school project.cpp
+C:\Users\abhiv\source\repos\school project\school project\Passenger.h(109,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'school%20project.cpp')
+  
+C:\Users\abhiv\source\repos\school project\school project\Passenger.h(111,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'school%20project.cpp')
+  
+C:\Users\abhiv\source\repos\school project\school project\Passenger.h(113,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'school%20project.cpp')
+  
+C:\Users\abhiv\source\repos\school project\school project\school project.cpp(106,32): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\abhiv\source\repos\school project\school project\school project.cpp(111,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\abhiv\source\repos\school project\school project\school project.cpp(119,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  school project.vcxproj -> C:\Users\abhiv\source\repos\school project\x64\Debug\school project.exe

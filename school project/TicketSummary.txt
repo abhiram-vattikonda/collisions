@@ -1,0 +1,29 @@
+Train Reservation Ticket Summary
+
+Departure: aif ei asjfa, Destination: afjlie naijf aeijjf
+Date: 3/8/2393
+Train: SF Train
+Class Type: 3
+Departure: 08:45, Arrival: 14:00
+
+Passengers:
+Passenger 1
+Name: aidfjv aef
+Age: 19
+Gender: f
+Berth Preference: lower
+Meal: veg
+Insurance: Yes
+Ticket Price: 1600
+
+Passenger 2
+Name: ani
+Age: 23
+Gender: f
+Berth Preference: top
+Meal: No meal
+Insurance: Yes
+Ticket Price: 1400
+
+Total Price (including 9% GST): 3270
+Payment Method: Card
