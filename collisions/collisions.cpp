@@ -186,9 +186,9 @@ int main()
 
     bool is_running = true;
 
-    int no_of_particles = 50;
+    int no_of_particles = 1000;
 
-    int max_particle_size = 30;
+    int max_particle_size = 10;
 
     int min_particle_size = 10;
 
@@ -214,8 +214,13 @@ int main()
 
 
         float r = 0;
-        while (r < min_particle_size)
-            r = rand() % max_particle_size;
+        if (min_particle_size != max_particle_size)
+        {
+            while (r < min_particle_size)
+                r = rand() % max_particle_size;
+        }
+        else
+            r = min_particle_size;
 
         particle_position = Vector2f((grid_buffer / 2) + row * ((window_size.x - grid_buffer) / grid_no), (grid_buffer / 2) + col * ((window_size.y - grid_buffer) / grid_no));
         s.push_back(particle(r, particle_position, particle_acceleration, particle_velocity));
